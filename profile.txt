@@ -3,4 +3,4 @@ Graphics
 
 Processor Graphics Ratio Limit : 16.0x
 Processor Graphics Voltage     : Default
-Processor Graphics Voltage Offset : +0.145 V
+Processor Graphics Voltage Offset : +0.160 V
