@@ -1,0 +1,6 @@
+# Acer Nitro 5 AN515-57
+Graphics
+
+Processor Graphics Ratio Limit : 16.0x
+Processor Graphics Voltage     : Default
+Processor Graphics Voltage Offset : +0.145 V
