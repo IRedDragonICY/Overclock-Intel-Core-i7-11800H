@@ -1,6 +1,6 @@
 # Acer Nitro 5 AN515-57
 Graphics
-
+Reference Clock : 102,800 MHz
 Processor Graphics Ratio Limit : 16.0x
 Processor Graphics Voltage     : Default
 Processor Graphics Voltage Offset : +0.160 V (max 0,215 V)
