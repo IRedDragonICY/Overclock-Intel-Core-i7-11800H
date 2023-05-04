@@ -1,4 +1,8 @@
 # Overclock-Intel-Core-i7-11800H
+For AN515-57
+
+Reference Clock : 102.000 Mhz (>102.000 Mhz will break S3, >103.100 Mhz unbootable)
+
 Processor Cache Ratio : x42
 Processor Cache Voltage Offset : 140 (<130 unstable)
 
